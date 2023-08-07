@@ -239,4 +239,4 @@ async def help(ctx):
 
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run('MTEzNzM3MDQ5OTQ0NjQ4NTA5Mg.Gx7tc6.uqR0MkObw6Ta6DIwCBPW4q1PBIA5H9ArwpJiZI')
+bot.run('Your Bot_Token')
